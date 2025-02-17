@@ -10,6 +10,7 @@ export default function MyRoute(){
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/profile" element={<Profile />} />
+            
         </Routes>
     );
 }
